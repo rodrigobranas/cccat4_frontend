@@ -1,24 +1,10 @@
-# cccat4_frontend
+Este conteúdo é parte do curso Clean Code e Clean Architecture da Branas.io
 
-## Project setup
-```
+Para mais informações acesse:
+
+https://app.branas.io/clean-code-e-clean-architecture
+
+Instruções:
+
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm run test
